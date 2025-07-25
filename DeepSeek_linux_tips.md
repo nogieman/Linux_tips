@@ -1,5 +1,4 @@
 
-```markdown
 # DeepSeek Linux Tips
 
 ## Git Workflow Essentials

@@ -1,6 +1,6 @@
 Sure! Here's the entire improved `Readme.md` file in a single copy-paste snippet:
 
-````markdown
+
 # 🐧 Linux & Git Tips Repository
 
 ![License](https://img.shields.io/github/license/nogieman/Linux_tips)
